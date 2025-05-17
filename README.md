@@ -1,2 +1,2 @@
 # CCNA-Project
-Securing a Small Business Network - Presentation 
+Securing a Small Business Network
